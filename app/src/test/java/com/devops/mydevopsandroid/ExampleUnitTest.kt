@@ -1,0 +1,17 @@
+package com.devops.mydevopsandroid
+
+import org.junit.Assert.assertEquals
+import org.junit.Test
+
+class ExampleUnitTest {
+
+    @Test
+    fun addition_isCorrect() {
+        assertEquals(4, 2 + 2)
+    }
+
+    @Test
+    fun substract_isCorrect() {
+        assertEquals(4, 8 - 4)
+    }
+}
